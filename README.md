@@ -1,2 +1,2 @@
 # CryptoClustering
-Test
+Example models of crypto currency using K-means and PCA optimized data.  The data was provided as a csv file that was then converted into a data frame for processing.  All aspects of the data were scaled by the StandardScaler tool, then the inertia was calculated in order to find the best K score to make clusters with a scatter plot tool.  This was performed for both regular scaled data and PCA optimized data.  The plots were then combined for a visual comparison to depict whether there was a significant difference between the regular scaled data and the PCA optimized data.
